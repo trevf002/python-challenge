@@ -1,2 +1,1 @@
-# python-challenge Homework
-'Python homework for USC Data Analytics BootCamp
+# Python homework for USC Data Analytics BootCamp
